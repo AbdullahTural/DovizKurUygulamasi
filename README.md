@@ -46,6 +46,3 @@ Bu proje, Türkiye Cumhuriyet Merkez Bankası (TCMB) tarafından sağlanan dövi
         ```
     -   Hizmeti başlatmak için Windows Hizmetleri (services.msc) uygulamasını açın, `DovizServisi` adındaki hizmeti bulun ve başlatın.
 
-## Katkıda Bulunma
-
-Geliştirmelere katkıda bulunmak isterseniz, lütfen bir pull request gönderin veya bir issue açın.
