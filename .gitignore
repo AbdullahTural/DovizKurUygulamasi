@@ -1,0 +1,25 @@
+## Visual Studio ve .NET için genel ayarlar
+
+# Binaries
+[Dd]ebug/
+[Rr]elease/
+[Bb]in/
+[Oo]bj/
+*.exe
+*.dll
+*.pdb
+*.suo
+
+# Visual Studio dosyaları
+*.user
+*.vs/
+_ReSharper.*/
+*.resharper
+*.vssscc
+
+# Paketler
+packages/
+node_modules/
+
+# Kullanıcıya özel ayarlar
+Settings.settings
